@@ -1,4 +1,4 @@
-﻿# gazprom_test
+﻿# gazprom
 Функционал:
 	api/view_articles - json всех статей
 	wiki/<str:arctcieName> - json всех статей с именем arctcieName (по ТЗ инфу о статье по точному совпадению, но названия повторяются)
