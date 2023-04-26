@@ -11,4 +11,4 @@
 Инструменты:
 	Django
 	Django Rest Framework
-  Postgresql
+  	Postgresql
